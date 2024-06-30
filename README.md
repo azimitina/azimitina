@@ -8,6 +8,30 @@ I'm **Tina Azimi**. I am a software engineer specializing in creating engaging a
 
 You can contact me via my [LinkedIn](https://www.linkedin.com/in/tina-azimi-197b346b/).
 
+#### Tech Stack
+
+
+
+<table>
+  <tr style="background-color: transparent;">
+    <td align="center"><img src="public/reactjs.svg" alt="React Icon" height="30"></td>
+    <td align="center"><img src="public/graphql.svg" alt="graphql Icon" height="30"></td>
+    <td align="center"><img src="public/nextjs.svg" alt="Next Js Icon" height="30"></td>
+    <td align="center"><img src="public/aws.svg" alt="aws Icon" height="30"></td>
+    <td align="center"><img src="public/js.svg" alt="Js Icon" height="30"></td>
+  </tr>
+  <tr style="background-color: transparent;">
+    <td align="center"><img src="public/nodejs.svg" alt="NodeJs Icon" height="30"></td>
+    <td align="center"><img src="public/vercel-horizontal.svg" alt="vercel-horizontal Icon" height="20"></td>
+    <td align="center"><img src="public/mongodb2-horizontal.svg" alt="mongodb Icon" height="20"></td>
+    <td align="center"><img src="public/tailwind-horizontal.svg" alt="tailwind Icon" height="15"></td>
+    <td align="center"><img src="public/framer-motion.svg" alt="framer-motion Icon" height="30"></td>
+  </tr>
+</table>
+
+
+
+
 <!--
 **azimitina/azimitina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
