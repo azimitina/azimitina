@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to my GitHub! 👩‍💻
+
+####  Greetings
+
+Hey there <img style='width: 24px; aspect-radio: 1/1; object-fit: contain;' src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif"> 
+
+I'm **Tina Azimi**. I am a software engineer specializing in creating engaging animations and micro-interactions with **React**. By utilizing technologies like React, TypeScript, Next.js, Tailwind CSS, Node.js, MongoDB, and GraphQL, I create visually captivating and dynamic websites.
+
+You can contact me via my [LinkedIn](https://www.linkedin.com/in/tina-azimi-197b346b/).
 
 <!--
 **azimitina/azimitina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
