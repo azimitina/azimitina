@@ -6,8 +6,9 @@ Hey there <img style='width: 24px; aspect-radio: 1/1; object-fit: contain;' src=
 
 I'm **Tina Azimi**. I am a software engineer specializing in creating engaging animations and micro-interactions with **React**. By utilizing technologies like React, TypeScript, Next.js, Tailwind CSS, Node.js, MongoDB, and GraphQL, I create visually captivating and dynamic websites.
 
-You can contact me via my [LinkedIn](https://www.linkedin.com/in/tina-azimi-197b346b/).
+You can contact me via my [LinkedIn](https://www.linkedin.com/in/tina-azimi-197b346b/)
 
+Check out my [Portfolio](https://tinazimi.tech)
 #### Tech Stack
 
 
